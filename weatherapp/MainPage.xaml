@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="weatherapp.MainPage"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Center">
+            
+           
+            
+            <Label Text="The Unitac Weather Services"
+                   FontSize="24"
+                   TextColor="Black"
+                   HorizontalOptions="Center" />
+
+            <Label Text="Build for interview purposes."
+                   FontSize="12"
+                   TextColor="DarkSlateGray"
+                   HorizontalOptions="Center" />
+            
+            <BoxView HeightRequest="1" BackgroundColor="Black" Margin="0,10,0,0" />
+
+
+            <Label x:Name="Location1"
+                   FontSize="50"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   Margin="0,20,0,-10"
+                   HorizontalOptions="Center"/>
+
+            <Label x:Name="Region1"
+                   FontSize="12.5"
+                   TextColor="Black"
+                   Margin="0,0,0,10"
+                   HorizontalOptions="Center" />
+       
+            <Label x:Name="Current1"
+                   FontSize="65"
+                   TextColor="Black"
+                   HorizontalOptions="Center" />
+
+            <Label x:Name="HL1"
+                   FontSize="12.5"
+                   TextColor="Black"
+                   HorizontalOptions="Center" />
+
+            <Label x:Name="Condition1"
+                   FontSize="12.5"
+                   Margin="0,5,0,0"
+                   TextColor="Black"
+                   HorizontalOptions="Center" />
+
+            <BoxView HeightRequest="1" BackgroundColor="Black" Margin="0,30,0,50" />
+
+            <Grid Margin="0" Grid.RowSpacing="1" Grid.ColumnSpacing="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Column headers -->
+                <Label x:Name="Col1" Grid.Row="0" Grid.Column="0" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Col1TappedCommand}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <BoxView Grid.Row="0" Grid.Column="1" BackgroundColor="Black" />
+                <Label x:Name="Col2" Grid.Row="0" Grid.Column="1" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Col2TappedCommand}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+
+                <BoxView Grid.Row="0" Grid.Column="2" BackgroundColor="Black" />
+                <Label x:Name="Col3" Grid.Row="0" Grid.Column="2" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding Col3TappedCommand}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+
+                <!-- Rows -->
+                <BoxView Grid.Row="1" Grid.Column="0" BackgroundColor="Black" />
+                <Label x:Name="a1" Grid.Row="1" Grid.Column="0" HorizontalTextAlignment="Center" TextColor="Black" />
+
+                <BoxView Grid.Row="1" Grid.Column="1" BackgroundColor="Black" />
+                <Label  x:Name="a2" Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="Center" TextColor="Black" />
+
+                <BoxView Grid.Row="1" Grid.Column="2" BackgroundColor="Black" />
+                <Label  x:Name="a3" Grid.Row="1" Grid.Column="2" HorizontalTextAlignment="Center" TextColor="Black" />
+                
+                
+                
+
+                <BoxView Grid.Row="2" Grid.Column="0" BackgroundColor="Black" />
+                <Label x:Name="b1" Margin="20,0,20,0"  Grid.Row="2" Grid.Column="0" HorizontalTextAlignment="Center" TextColor="Black" />
+
+                <BoxView Grid.Row="2" Grid.Column="1" BackgroundColor="Black" />
+                <Label x:Name="b2" Margin="20,0,20,0" Grid.Row="2" Grid.Column="1" HorizontalTextAlignment="Center" TextColor="Black" />
+
+                <BoxView Grid.Row="2" Grid.Column="2" BackgroundColor="Black" />
+                <Label x:Name="b3" Margin="20,0,20,0" Grid.Row="2" Grid.Column="2" HorizontalTextAlignment="Center" TextColor="Black" />
+            </Grid>
+
+
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
