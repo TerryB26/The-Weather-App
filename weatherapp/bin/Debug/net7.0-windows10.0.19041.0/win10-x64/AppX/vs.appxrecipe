@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-07-13T19:42:13.466</Modified>
+      <Modified>2023-07-20T14:59:35.481</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-07-13T19:38:51.858</Modified>
+      <Modified>2023-07-20T13:01:42.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\weatherapp.runtimeconfig.json">
       <PackagePath>weatherapp.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\weatherapp.dll">
       <PackagePath>weatherapp.dll</PackagePath>
-      <Modified>2023-07-13T19:42:11.192</Modified>
+      <Modified>2023-07-20T14:59:33.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>weatherapp.exe</PackagePath>
-      <Modified>2023-07-13T19:42:11.202</Modified>
+      <Modified>2023-07-20T14:59:33.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.7\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -924,7 +924,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\weatherapp.deps.json">
       <PackagePath>weatherapp.deps.json</PackagePath>
-      <Modified>2023-07-13T19:42:13.248</Modified>
+      <Modified>2023-07-20T14:59:35.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -972,207 +972,215 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-07-13T18:13:22.804</Modified>
+      <Modified>2023-07-17T12:32:37.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.819</Modified>
+      <Modified>2023-07-17T12:32:38.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.853</Modified>
+      <Modified>2023-07-17T12:32:38.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.884</Modified>
+      <Modified>2023-07-17T12:32:38.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.949</Modified>
+      <Modified>2023-07-17T12:32:38.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:24.362</Modified>
+      <Modified>2023-07-17T12:32:38.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.084</Modified>
+      <Modified>2023-07-17T12:32:38.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.104</Modified>
+      <Modified>2023-07-17T12:32:38.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.203</Modified>
+      <Modified>2023-07-17T12:32:38.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.125</Modified>
+      <Modified>2023-07-17T12:32:38.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.163</Modified>
+      <Modified>2023-07-17T12:32:38.053</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.969</Modified>
+      <Modified>2023-07-17T12:32:38.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.997</Modified>
+      <Modified>2023-07-17T12:32:38.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.056</Modified>
+      <Modified>2023-07-17T12:32:38.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.020</Modified>
+      <Modified>2023-07-17T12:32:38.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.040</Modified>
+      <Modified>2023-07-17T12:32:38.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.822</Modified>
+      <Modified>2023-07-17T12:32:37.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.829</Modified>
+      <Modified>2023-07-17T12:32:37.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.892</Modified>
+      <Modified>2023-07-17T12:32:37.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.899</Modified>
+      <Modified>2023-07-17T12:32:37.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.910</Modified>
+      <Modified>2023-07-17T12:32:37.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.919</Modified>
+      <Modified>2023-07-17T12:32:37.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.924</Modified>
+      <Modified>2023-07-17T12:32:37.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.963</Modified>
+      <Modified>2023-07-17T12:32:38.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.941</Modified>
+      <Modified>2023-07-17T12:32:37.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.948</Modified>
+      <Modified>2023-07-17T12:32:37.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.399</Modified>
+      <Modified>2023-07-17T12:32:38.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.426</Modified>
+      <Modified>2023-07-17T12:32:38.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.450</Modified>
+      <Modified>2023-07-17T12:32:38.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.472</Modified>
+      <Modified>2023-07-17T12:32:38.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.542</Modified>
+      <Modified>2023-07-17T12:32:38.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.286</Modified>
+      <Modified>2023-07-17T12:32:38.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.302</Modified>
+      <Modified>2023-07-17T12:32:38.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.335</Modified>
+      <Modified>2023-07-17T12:32:38.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.367</Modified>
+      <Modified>2023-07-17T12:32:38.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.387</Modified>
+      <Modified>2023-07-17T12:32:38.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.212</Modified>
+      <Modified>2023-07-17T12:32:38.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.227</Modified>
+      <Modified>2023-07-17T12:32:38.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.239</Modified>
+      <Modified>2023-07-17T12:32:38.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.248</Modified>
+      <Modified>2023-07-17T12:32:38.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.270</Modified>
+      <Modified>2023-07-17T12:32:38.086</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.554</Modified>
+      <Modified>2023-07-17T12:32:38.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.579</Modified>
+      <Modified>2023-07-17T12:32:38.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.607</Modified>
+      <Modified>2023-07-17T12:32:38.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.642</Modified>
+      <Modified>2023-07-17T12:32:38.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.788</Modified>
+      <Modified>2023-07-17T12:32:38.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.915</Modified>
+      <Modified>2023-07-17T12:32:37.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.952</Modified>
+      <Modified>2023-07-17T12:32:37.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-07-13T18:13:22.996</Modified>
+      <Modified>2023-07-17T12:32:37.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.074</Modified>
+      <Modified>2023-07-17T12:32:37.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-07-13T18:13:23.230</Modified>
+      <Modified>2023-07-17T12:32:38.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\weather.scale-100.jpg">
+      <PackagePath>weather.scale-100.jpg</PackagePath>
+      <Modified>2023-07-17T12:11:56.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\weatherapp\weatherapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\weather2.scale-100.jpg">
+      <PackagePath>weather2.scale-100.jpg</PackagePath>
+      <Modified>2023-07-17T12:32:16.718</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

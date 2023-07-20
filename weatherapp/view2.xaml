@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="weatherapp.view2"
+             BackgroundColor="White"
+             Title="Day Forecast">
+
+    <Grid>
+        <Image Source="weather2.jpg"
+               Aspect="AspectFill"
+               HorizontalOptions="Fill"
+               VerticalOptions="Fill" />
+        
+        <ScrollView>
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Center">
+                
+                <Label Text="The Unitac Weather Services"
+                   FontSize="24"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+                <Label Text="Build for interview purposes."
+                   FontSize="12"
+                   TextColor="LightGray"
+                       Margin="0,0,0,10"
+                   HorizontalOptions="Center" />
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button Grid.Column="0"
+                        Text="Back To Main"
+                        BorderColor="Gray"
+                        BackgroundColor="Transparent"
+                        Clicked="OnButtonClicked"
+                        TextColor="Gray"
+                        HorizontalOptions="CenterAndExpand" />
+                </Grid>
+                    <BoxView HeightRequest="1" BackgroundColor="Black" Margin="0,10,0,10" Color="DimGray"/>
+                <Label 
+                   Text="Forecast For"
+                   FontSize="12.5"
+                   TextColor="DimGray"
+                   HorizontalOptions="Center" />
+                
+                <Label 
+                   x:Name="x_Date"
+                   FontSize="12.5"
+                   TextColor="WhiteSmoke"
+                   HorizontalOptions="Center" />
+
+                <Label 
+                   x:Name="x_Location"
+                   FontSize="70"
+                   FontAttributes="Bold"
+                   TextColor="Gray"
+                   Margin="0,0,0,-10"
+                   HorizontalOptions="Start"/>
+
+                <Label 
+                   x:Name="x_Current"
+                   FontSize="65"
+                   TextColor="WhiteSmoke"
+                   HorizontalOptions="Start" />
+
+                <Image x:Name="xCurrentIcon"
+                   Margin="0,0,0,10"
+                   HeightRequest="100" 
+                   WidthRequest="100" 
+                   HorizontalOptions="Center" 
+                   Scale="1.0"/>
+
+                <Label 
+                   x:Name="x_TempFeel"
+                   FontSize="12.5"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <Label 
+                   x:Name="x_Condition"
+                   FontSize="20"
+                   Margin="0,5,0,0"
+                   FontAttributes="None"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <BoxView HeightRequest="1" BackgroundColor="Black" Margin="0,10,0,10" Color="DimGray" />
+
+                <Label 
+                   x:Name="x_SunDetails"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <Label 
+                   x:Name="x_Humid"
+                   Text="Humidity:"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+
+                <Label 
+                   x:Name="x_Wind"
+                   Text="Wind:"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <Label 
+                   x:Name="x_UV" 
+                   Text="UV:"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <Label 
+                   x:Name="x_Rain"
+                   Text="Rain Amount:"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+                <Label 
+                   x:Name="x_Snow"
+                   FontSize="15"
+                   Margin="0,5,0,0"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Start" />
+
+            </StackLayout>
+        </ScrollView>
+
+    </Grid>
+
+</ContentPage>
